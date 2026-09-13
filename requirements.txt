@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
-psycopg[binary]
 pydantic
+watchdog
+httpx 
